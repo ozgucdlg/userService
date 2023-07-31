@@ -1,4 +1,4 @@
-# Adventure Game Application
+# User Service Application
 
 ## Introduction
 
